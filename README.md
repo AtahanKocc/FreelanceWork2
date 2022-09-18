@@ -1,5 +1,3 @@
-# FreelanceWork2
-
 # FunctionPlotter
 User-input function plotting GUI program written in Python.
 
